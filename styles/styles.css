@@ -58,6 +58,9 @@ main h1 {
 #latest-products ul {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
 }
 
 .food-item img {
