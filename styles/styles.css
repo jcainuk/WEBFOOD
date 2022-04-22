@@ -74,3 +74,8 @@ main h1 {
   width: 100%;
   object-fit: cover;
 }
+
+.food-item-content {
+  padding: 16px;
+  text-align: center;
+}
