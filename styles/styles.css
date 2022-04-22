@@ -7,3 +7,12 @@ body {
 a {
   text-decoration: none;
 }
+
+#main-header {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(29, 26, 24);
+  padding: 0 20px;
+}
