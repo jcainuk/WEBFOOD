@@ -49,3 +49,8 @@ main h1 {
   color: rgb(238, 164, 80);
   font-size: 48px;
 }
+
+#latest-products {
+  width: 80%;
+  margin: 50px auto;
+}
