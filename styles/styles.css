@@ -16,3 +16,10 @@ a {
   background-color: rgb(29, 26, 24);
   padding: 0 20px;
 }
+
+#logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: rgb(238, 164, 80);
+  text-transform: uppercase;
+}
