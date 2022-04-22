@@ -54,3 +54,8 @@ main h1 {
   width: 80%;
   margin: 50px auto;
 }
+
+#latest-products ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
