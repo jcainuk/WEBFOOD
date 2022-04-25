@@ -71,7 +71,7 @@ main h1 {
 }
 
 .food-item img {
-  height: 240px;
+  height: 15rem;
   width: 100%;
   object-fit: cover;
 }
