@@ -61,13 +61,13 @@ main h1 {
   gap: 16px;
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 
 .food-item {
   background-color: rgb(228, 206, 182);
   border-radius: 6px;
   overflow: hidden;
-  list-style: none;
 }
 
 .food-item img {
