@@ -82,6 +82,11 @@ a {
   align-items: center;
 }
 
+#side-drawer a {
+  color: rgb(253, 239, 213);
+  font-size: 2rem;
+}
+
 /* main */
 main h1 {
   text-align: center;
