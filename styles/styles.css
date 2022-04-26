@@ -73,6 +73,15 @@ a {
   left: 0;
 }
 
+#side-drawer ul {
+  list-style: none;
+  margin: 0;
+  padding: 4rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* main */
 main h1 {
   text-align: center;
