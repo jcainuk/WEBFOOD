@@ -33,6 +33,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  display: none;
 }
 
 /* navigation links */
@@ -163,6 +164,11 @@ main h1 {
   #main-header nav {
     display: none;
   }
+
+  .menu-btn {
+    display: flex;
+  }
+
   main h1 {
     font-size: 1.5rem;
   }
